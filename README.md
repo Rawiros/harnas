@@ -1,2 +1,2 @@
 ## Harnas
-Minecraft Texturepack with Polish beer "Harnaś"
+Minecraft texturepack, with polish beer "Harnaś" as apple texture
