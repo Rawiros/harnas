@@ -1,2 +1,1 @@
-# Harnaś Ekipy Texture Pack
-bruh
+Minecraft Texturepack with Polish beer "Harnaś"
